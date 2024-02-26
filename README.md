@@ -14,10 +14,12 @@ Cryptography and PKI (Public Key Infra)
 Identity and Access Management  
 Technologies and Tools  
 
+### Study Resources
 
-### Resources
-
-[Professor Messer](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)  
-Cyberkraft (PBQ - Performance Based Questions)  
+Professor Messer - [SY0-601 Security+](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)  
+    * SY0-601 exam retires July 31, 2024  
+Cyberkraft (PBQ - [Performance Based Questions](https://www.youtube.com/watch?v=Fb7RQ7-ccCo))  
+    * [security+ labs](https://www.youtube.com/watch?v=s5g6NDcTTEY&list=PLUkY1OVVHzVmJ4gdsRSYLe1RG-79GYdix)    
+    * [additional study guide playlist](https://www.youtube.com/watch?v=1AM0kdFwSSY&list=PLUkY1OVVHzVnuWUNutdxWZoSJ3cdP8fcJ)  
 Dion Training  
 Examcompass  
