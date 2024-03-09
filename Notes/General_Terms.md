@@ -12,9 +12,13 @@ Define and document words that I did not understand and/or those small topics th
 - stolen from browser, credential manager, sticky note, phishing email etc.
 - happens in the background; can be unnoticeable
 
-**Dumpster Diving** - when someone sifts through disposed [data] from another individual\
+**Dumpster Diving** - when someone sifts through disposed [data] from another individual
 - always dispose your data in a secure way (e.g. encrypt, burn, shred, lock etc.)
 - trash is open to the public and anyone can acccess
+
+**Dynamic Link Library** - windows library containing code and data
+- many applications may use a number of different DLL's
+- attackers can inject their own DLL in an application to run as part of the target process
 
 **Logic Bomb** - type of malware attack when a separate event is triggereds
 - waits for predefined event such as a time, user action
