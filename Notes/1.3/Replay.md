@@ -11,7 +11,7 @@ Raw network data can be intercepted and stolen when transmitted over the network
 - attacker can *replay* this value to impersonate the user / workstation in a network
 - client > transmitted hashed data > attacker intercepts + sent to server
 
-    <img src="pass_the_hash.png" alt="Pass the Hash" width="700"/>\
+    <img src="assets/pass_the_hash.png" alt="Pass the Hash" width="700"/>\
 
     ##### *Pass the Hash*. Client-Server model where attacker intercepts data in transmission.
 
@@ -19,7 +19,7 @@ Raw network data can be intercepted and stolen when transmitted over the network
 - session ID assigned when client first logs in and persists when communicating with service
 - attackers can use this ID to impersonate the victim w/o their username / password
 
-    <img src="session_hijacking.png" alt="Session Hijacking" width="700"/>\
+    <img src="assets/session_hijacking.png" alt="Session Hijacking" width="700"/>\
 
     ##### *Session Hijacking*. Attacker intercepts session ID to communicate with server as the compromised user.
 

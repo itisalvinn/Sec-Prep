@@ -6,13 +6,13 @@ Attackers can gain access to system and manipulate applications due to **lack of
 
 **Before**
 
-<img src="buffer_overflow_before.png" alt="BuffOverflow 1" width="700"/>\
+<img src="assets/buffer_overflow_before.png" alt="BuffOverflow 1" width="700"/>\
 
 ##### *Buffer Overflow Before Attack*. Variable A has no data value. Variable B has 1979 data value.
 
 **After**
 
-<img src="buffer_overflow_after.png" alt="BuffOverflow 2" width="700"/>\
+<img src="assets/buffer_overflow_after.png" alt="BuffOverflow 2" width="700"/>\
 
 ##### *Buffer Overflow After Attack*. Store string 'e x c e s s i v e' into Variable A where 'e' overflows into to Variable B with Hex value '65'. 
 
