@@ -27,7 +27,7 @@ Plaintext / unencrypted data are easy to steal. *HORRIBLE*.\
 - a match enables the attacker to sign the digital signature with their malicious one
 - e.g. December 2008, created MD5 cert that appeared legit based on the hash
 
-    <img src="md_5_collision.png" alt="md5 collision" width="700"/>\
+    <img src="assets/md_5_collision.png" alt="md5 collision" width="700"/>\
     ##### *MD5 Collision*. Identical MD5 output for a slightly different input
 
 **Downgrade Attack**

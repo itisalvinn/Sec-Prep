@@ -21,6 +21,11 @@ Define and document words that I did not understand and/or those small topics th
 - stolen from browser, credential manager, sticky note, phishing email etc.
 - happens in the background; can be unnoticeable
 
+**Dark web**
+- need specific software and configs
+- e.g. TOR browser
+- access to hacking group activities and services
+
 **Driver Manipulation**
 - capitalize on interaction between hardware and OS
 - tons of sensitive information conveyed via hardware
@@ -34,6 +39,11 @@ Define and document words that I did not understand and/or those small topics th
 - many applications may use a number of different DLL's
 - attackers can inject their own DLL in an application to run as part of the target process
 
+**LAN switching** - forward or drop frames based on destination MAC address
+- gather constantly updating list of MAC addresses (age out periodically)
+- maintain loop free environment (spanning tree protocol)
+- goal to increase efficiency of LAN + increase network scalability
+
 **Logic Bomb** - type of malware attack when a separate event is triggered
 - waits for predefined event such as a time, user action
 - difficult to identify because there is no known signature
@@ -41,6 +51,14 @@ Define and document words that I did not understand and/or those small topics th
 - e.g. March 19, 2023 South Korea (malicious email sent out > activated a day later to steal / delete data etc.)
 - e.g. Dec 17, 2016 (Real world logic bomb that disabled electric circuits at certain times)
 - *need formal process and control, system monitoring, security auditing* for prevention
+
+**MAC Adress** - Media access control address
+- 'physical' adddress of network adapter
+- unique to device
+- 48 bits / 6 bytes long, hexadecimal
+- e.g. **[8c:2d:aa]:[4b:98:a7]**
+- *first 3 bytes* = organizationally unique identifier (manufacturer number)
+- *last 3 bytes* = network interface controller specific (serial number)
 
 **On-premise security** - security burden is on the client
 - data center security completely managed in-house
@@ -94,4 +112,6 @@ Define and document words that I did not understand and/or those small topics th
     - one scan, one person
     - access control w/ security check
     
-
+**Zero day attacks**
+- unknown or unaddressed vulnerability
+- a race between researchers vs attackers to discover vulnerabilities in a system 
