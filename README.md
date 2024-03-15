@@ -1,5 +1,6 @@
 # Sec-Prep
-My study notes for CompTIA Security+
+My study notes for CompTIA Security+\
+Majority of the material and diagrams sourced from Prof. Messer's [SY0-601 Security+ Training Course](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
 
 ### CompTIA
 Attacks, Threats, and Vulnerabilities (24%)  
@@ -16,13 +17,13 @@ Technologies and Tools
 
 ### Study Resources
 
-Professor Messer - [SY0-601 Security+](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)  
+Professor Messer - [SY0-601 CompTIA Security+](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)  
 * SY0-601 exam retires July 31, 2024    
 * Practice exams  
 
 Cyberkraft (PBQ - [Performance Based Questions](https://www.youtube.com/watch?v=Fb7RQ7-ccCo))  
-* [security+ labs](https://www.youtube.com/watch?v=s5g6NDcTTEY&list=PLUkY1OVVHzVmJ4gdsRSYLe1RG-79GYdix)    
-* [additional study guide playlist](https://www.youtube.com/watch?v=1AM0kdFwSSY&list=PLUkY1OVVHzVnuWUNutdxWZoSJ3cdP8fcJ)  
+* [Security+ labs](https://www.youtube.com/watch?v=s5g6NDcTTEY&list=PLUkY1OVVHzVmJ4gdsRSYLe1RG-79GYdix)    
+* [Additional study guide playlist](https://www.youtube.com/watch?v=1AM0kdFwSSY&list=PLUkY1OVVHzVnuWUNutdxWZoSJ3cdP8fcJ)  
 
 Examcompass  
 * SY0-601 practice exams  
