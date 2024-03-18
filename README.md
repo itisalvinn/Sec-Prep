@@ -36,5 +36,6 @@ Udemy
 90 minutes  
 Maximum 90 questions  
 * multiple choice  
-* performance based    
+* performance based
+
 750/900 minimum pass requirement   
