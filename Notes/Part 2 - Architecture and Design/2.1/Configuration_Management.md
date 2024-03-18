@@ -9,7 +9,7 @@ Always identify an document hardware and software settings so they can be easily
 - physical data center layout (know how devices are connected and where they are located)
 - track individual cabling between racks and systems
 
-    <img src="assets/network_diagram.png" alt="network diagram" width="700"/>\
+    <img src="assets/network_diagram.png" alt="network diagram" width="700"/>
 
     ##### *Network Diagram*. General overview of what devices are available on the network and how they are connected.
 

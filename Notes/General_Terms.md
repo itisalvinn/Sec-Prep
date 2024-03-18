@@ -115,3 +115,7 @@ Define and document words that I did not understand and/or those small topics th
 **Zero day attacks**
 - unknown or unaddressed vulnerability
 - a race between researchers vs attackers to discover vulnerabilities in a system 
+
+[**CVE-2021-30481**](https://nvd.nist.gov/vuln/detail/CVE-2021-30481#range-6515607) 
+- Valve Steam RCE vulnerability when Source engine game is installed due to buffer overflow after Steam invite
+- Apex Legends - potential RCE vulnerability discovered during ALGS March 17, 2024

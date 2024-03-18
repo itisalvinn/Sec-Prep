@@ -4,6 +4,8 @@ Security exercise to find and exploit vulnerabilities in a system. The purpose i
 
 *If you can get through, the attackers can get through*
 
+**Note**: *Kali Linux* tool for pen testing
+
 **Rules of Engagement**
 - Must define purpose and scope
 - Everyone needs to be aware of test parameters
