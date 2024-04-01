@@ -66,6 +66,11 @@ Define and document words that I did not understand and/or those small topics th
 - local team maintains uptime and availability (more downtime than cloud)
 - fully responsible for security posture (this can be a *good thing!!*)
 
+**Obfuscation**
+- to make something easily understandable, difficult to understand
+- prevent attackers from reading your code
+- e.g. echo "Hello World"; > function asdfasfdasdf($=0){} 
+
 **Race condition** - undesirable situation that occurs when device or system attempts to perform two or more operations at the same time
 - *time-of-check to time-of-use attack*
     - make modifications knowing there are multiple changes happening at the same time
@@ -93,6 +98,10 @@ Define and document words that I did not understand and/or those small topics th
 - e.g. at airports, one can see everything on a work laptop screen when walking by
 - important to control your input (aware of surroundings)
 - use privacy filters
+
+**Software Diversity** - Use alternative compiler paths that would result in a different binary each time
+- each compiled application is a little different but functionaly the same
+- e.g. Windows 10 exploit affects all Windows 10 users if every copy is the same; using different binary ensures it will only affect a fraction of the users
 
 **Spam** - unsolicited messages (from email, forums, sms etc.)
 - too good to be true etc. etc.
