@@ -21,7 +21,8 @@
 **Differential Backup**
 - full back up taken first!!
 - subsequent backups contain data changed *since last full back up to current* 
-    - grows larger as data is 
+    - grows larger as data is added
+
 - *restoration* requires full back up and last differential back up
 - does not clear archive attribute
     - b/c back up is performed again on last differential back up
