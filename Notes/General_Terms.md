@@ -71,6 +71,13 @@ Define and document words that I did not understand and/or those small topics th
 - prevent attackers from reading your code
 - e.g. echo "Hello World"; > function asdfasfdasdf($=0){} 
 
+**Protected Distribution System (PDS)**
+- physically secured cable network
+- protect cables and fibers
+    - all data flows through these conduits
+- prevent cable and fiber taps
+- security hardening with sealed material, periodic audits etc.
+
 **Race condition** - undesirable situation that occurs when device or system attempts to perform two or more operations at the same time
 - *time-of-check to time-of-use attack*
     - make modifications knowing there are multiple changes happening at the same time
