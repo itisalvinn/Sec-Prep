@@ -96,6 +96,11 @@ Define and document words that I did not understand and/or those small topics th
 - reorder functions, modify application flow, insert unused data types etc.
 - able to avoid signatures in anti-virus software
 
+**Secure shell (SSH)**
+- encrypted terminal communication
+- for file transfer and communication features
+- replaces Telnet and FTP
+
 **Shimming**
 - Windows Shim allows backwards compatibility w/ previous versions
 - malware write their own shims to circumvent security
